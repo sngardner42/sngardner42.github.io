@@ -386,8 +386,27 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1779px;
+  }
+
   .u-section-2 .u-text-1 {
-    margin-right: 135px;
+    width: auto;
+    margin-top: 40px;
+    margin-right: auto;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-top: 35px;
+    margin-right: -175px;
+    margin-left: -165px;
+  }
+
+  .u-section-2 .u-list-1 {
+    margin-top: 35px;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-2 .u-repeater-1 {

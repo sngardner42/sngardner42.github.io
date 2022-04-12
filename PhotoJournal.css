@@ -280,6 +280,16 @@
     margin-right: initial;
     margin-left: initial;
   }
+
+  .u-section-2 .u-image-11 {
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-image-12 {
+    margin-left: 0;
+  }
 }
 
 @media (max-width: 991px) {
@@ -524,7 +534,6 @@
   .u-section-2 .u-image-11 {
     width: 340px;
     height: 458px;
-    margin-top: -467px;
   }
 
   .u-section-2 .u-image-12 {

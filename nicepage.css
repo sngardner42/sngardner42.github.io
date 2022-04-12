@@ -36373,18 +36373,35 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 1199px) {
   .u-header .u-image-1 {
     width: 190px;
-    margin-top: -4px;
-    margin-left: 19px;
+    margin-top: 36px;
+    margin-left: -20px;
   }
 
   .u-header .u-menu-1 {
     width: auto;
-    margin-top: -42px;
-    margin-bottom: 60px;
+    margin-top: -41px;
+    margin-right: -51px;
+    margin-bottom: 46px;
   }
 }
+@media (max-width: 991px) {
+  .u-header .u-image-1 {
+    width: 190px;
+    margin-left: -20px;
+  }
 
-
+  .u-header .u-menu-1 {
+    margin-top: -42px;
+    margin-right: -16px;
+    margin-bottom: 51px;
+  }
+}
+@media (max-width: 767px) {
+  .u-header .u-menu-1 {
+    margin-top: -42px;
+    margin-right: -16px;
+  }
+}
 
  .u-footer {
   background-image: none;
